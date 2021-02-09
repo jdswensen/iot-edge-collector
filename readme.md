@@ -1,13 +1,13 @@
 # iot-edge-collector
-A simple example of IoT data collection on a Linux based IoT edge device.
+A simple example of IoT data collection on a Linux based edge device.
 
 ## Requirements
 - Raspberry Pi
 - [Sense HAT](https://www.raspberrypi.org/products/sense-hat/)
 - Raspberry Pi OS
-    Ubuntu could work but requires more configuration. Most things are ready to go out of the box with RPiOS.
+    - Ubuntu could work but requires more configuration. Most things are ready to go out of the box with RPiOS.
 - InfluxDB 2.0 setup locally or in the cloud
-    The cloud interface is probably the easiest to get started with.
+    - The cloud interface is probably the easiest to get started with.
 
 ## Setup
 For now, this project requires local compilation on the Raspberry Pi.
