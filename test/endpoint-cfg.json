@@ -1,0 +1,6 @@
+{
+    "org": "myorg",
+    "bucket": "mybucket",
+    "url": "http://localhost:9999",
+    "token": "my-token"
+}
